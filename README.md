@@ -14,6 +14,7 @@ Passionate Java developer with expertise in Spring Boot, microservices, and mode
 ### 🌟 Featured Projects
 - 🤖 **[CodeMate](https://github.com/MaraMarchello/Tasca-S5.02-Aplicacio-Web-Mascota-Virtual)** - AI-powered virtual pet coding companion
 - ⚡ **[Spring WebFlux Services](https://github.com/MaraMarchello/Tasca-S5.01-Spring-Framework-with-WebFlux)** - High-performance reactive web services
+- 📊 **[Java Developer Portfolio | Git-Style Resume]([https://github.com/MaraMarchello/Tasca-S5.01-Spring-Framework-with-WebFlux](https://maramarchello.github.io/java-developer-portfolio/)** - Interactive Terminal-Based Portfolio showcasing Java Backend Development expertise through a unique git-style interface.
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaraMarchello&show_icons=true&theme=default)
